@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(17, 82, 82);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    text-align: center;
+    color: white;
+}
+
+main{
+    max-width: 450px;
+    background: white;
+    margin: auto;
+    padding: 14px;
+    font-size: 17px;
+    border-radius: 8px;
+}
+
+input, select{
+    margin: 8px;
+    font-size: 15px;
+    border: solid 1px black;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+button{
+    border-radius: 5px;
+    font-size: 15px;
+    border: 2px solid aqua;
+    padding: 3px;
+}
